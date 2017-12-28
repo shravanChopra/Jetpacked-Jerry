@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 93798102b8090463fa463de9e9668f6c
+timeCreated: 1513466064
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Third Rail - Demo
+  fontNames:
+  - Third Rail - Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
